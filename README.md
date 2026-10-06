@@ -1,16 +1,14 @@
-## Hi there 👋
+## Unlock All Rivals
 
-<!--
-**roivvs/roivvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple No GUI script that provides an Unlock All feature for RIVALS on Roblox.
 
-Here are some ideas to get you started:
+## Features
+Unlock All
+No GUI
+Runs without any user interface
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Usage
+
+Open your executor (Potassium; Maduim; Volt...)
+Execute
+& Enjoy :33
